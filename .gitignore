@@ -1,0 +1,14 @@
+env
+venv
+.venv
+.vscode
+__pycache__
+public
+
+.DS_Store
+.idea/
+.idea
+.DS_Store
+/data/
+.jupyter
+.vscode

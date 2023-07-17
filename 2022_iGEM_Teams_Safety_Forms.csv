@@ -1,0 +1,364 @@
+Team ID , Team  , Region , Country , Track , Kind , Size , Status , Year
+4138,Aachen,Europe,Germany,,Collegiate,28,Accepted,2022
+4159,Aalto-Helsinki,Europe,Finland,,Collegiate,16,Accepted,2022
+4207,Aboa,Europe,Finland,,Collegiate,10,Accepted,2022
+4140,AFCM-Egypt,Africa,Egypt,,Collegiate,24,Accepted,2022
+4396,AHS_Peking,Asia,China,High School,High_school,1,Pending,2022
+4189,Aix-Marseille,Europe,France,,Collegiate,19,Accepted,2022
+4166,Alma,North America,United States,,Collegiate,15,Accepted,2022
+4503,Anatolia_College_HS,Europe,Greece,High School,High_school,1,Pending,2022
+4186,AshesiGhana,Africa,Ghana,,Collegiate,10,Accepted,2022
+4334,ASIJ_Tokyo,Asia,Japan,High School,High_school,1,Accepted,2022
+4455,ASU,North America,United States,,Collegiate,16,Accepted,2022
+4294,Athens,Europe,Greece,,Collegiate,10,Accepted,2022
+4342,Austin_UTexas,North America,United States,,Collegiate,10,Accepted,2022
+4501,Barcelona_UB,Europe,Spain,,Collegiate,17,Accepted,2022
+4290,Beijing_United,Asia,China,,Commercial,1,Accepted,2022
+4521,BentoTied,Asia,Unspecified,High School,High_school,1,Pending,2022
+4400,BFSU-ICUnited,Asia,China,,Commercial,1,Pending,2022
+4120,BGU_Israel,Asia,Israel,,Collegiate,12,Accepted,2022
+4476,Bilkent_UNAM,Europe,Turkey,,Collegiate,10,Accepted,2022
+4403,Bio-Brussels,Europe,Belgium,,Collegiate,10,Accepted,2022
+4413,Bioplus-China,Asia,China,,Commercial,1,Accepted,2022
+4128,BIT,Asia,China,,Collegiate,34,Accepted,2022
+4232,BIT-China,Asia,China,,Collegiate,26,Accepted,2022
+4221,BJEA_China,Asia,China,High School,High_school,1,Pending,2022
+4203,BJWZ-China,Asia,China,High School,High_school,1,Pending,2022
+4204,BNDS_China,Asia,China,High School,High_school,1,Pending,2022
+4237,BNSC_China,Asia,China,,Commercial,1,Accepted,2022
+4117,BNU-China,Asia,China,,Collegiate,43,Accepted,2022
+4211,BNUZH-China,Asia,China,,Collegiate,24,Accepted,2022
+4423,BOKU-Vienna,Europe,Austria,,Collegiate,20,Accepted,2022
+4510,Bonn-Rheinbach,Europe,Germany,,Collegiate,3,Accepted,2022
+4485,BostonU_HW,North America,United States,,Collegiate,1,Accepted,2022
+4329,BS_United_China,Asia,China,,Commercial,1,Pending,2022
+4146,BUCT,Asia,China,,Collegiate,25,Accepted,2022
+4194,BUCT-China,Asia,China,,Collegiate,23,Accepted,2022
+4364,Bulgaria,Europe,Bulgaria,,Collegiate,25,Accepted,2022
+4226,CAFA_China,Asia,China,,Collegiate,24,Accepted,2022
+4437,Calgary,North America,Canada,,Collegiate,16,Accepted,2022
+4491,Cambridge,Europe,United Kingdom,,Collegiate,15,Accepted,2022
+4291,Canton_HS,Asia,China,,Commercial,1,Accepted,2022
+4192,CAU_China,Asia,China,,Collegiate,22,Accepted,2022
+4261,CCA_San_Diego,North America,United States,High School,High_school,1,Accepted,2022
+4131,CCU_Taiwan,Asia,Taiwan,,Collegiate,29,Accepted,2022
+4367,Chalmers-Gothenburg,Europe,Sweden,,Collegiate,14,Accepted,2022
+4295,Chattahoochee,North America,United States,High School,High_school,1,Pending,2022
+4112,CHINA-FAFU,Asia,China,,Collegiate,40,Accepted,2022
+4154,CityU_HongKong,Asia,Hong Kong,,Collegiate,15,Accepted,2022
+4508,City_of_London_UK,Europe,United Kingdom,High School,High_school,1,Accepted,2022
+4136,Concordia-Montreal,North America,Canada,,Collegiate,21,Accepted,2022
+4322,Cornell,North America,United States,,Collegiate,33,Accepted,2022
+4133,Costa_Rica,Latin America,Costa Rica,,Collegiate,9,Accepted,2022
+4308,CPU_CHINA,Asia,China,,Collegiate,21,Accepted,2022
+4257,CPU_Nanjing,Asia,China,,Collegiate,19,Accepted,2022
+4495,Crete,Europe,Greece,,Collegiate,11,Accepted,2022
+4151,CSMU_Taiwan,Asia,Taiwan,,Collegiate,32,Accepted,2022
+4127,CSU_CHINA,Asia,China,,Collegiate,36,Accepted,2022
+4201,CU-Boulder,North America,United States,,Collegiate,11,Accepted,2022
+4242,CUG-China,Asia,Singapore,,Collegiate,23,Accepted,2022
+4469,CUHK-HongKong-SBS,Asia,Hong Kong,,Collegiate,9,Accepted,2022
+4459,CUHKSZ,Asia,China,,Collegiate,20,Accepted,2022
+4165,CU_Egypt,Africa,Egypt,,Collegiate,27,Accepted,2022
+4431,DeNovoCastrians,Asia,Australia,,Collegiate,10,Accepted,2022
+4161,DKU,Asia,China,,Collegiate,18,Accepted,2022
+4494,DKU_China,Asia,China,,Collegiate,4,Accepted,2022
+4386,DNHS_SanDiego_CA,North America,United States,High School,High_school,1,Accepted,2022
+4129,DTU-Denmark,Europe,Denmark,,Collegiate,16,Accepted,2022
+4369,Duesseldorf,Europe,Germany,,Collegiate,15,Accepted,2022
+4234,Duke,North America,United States,,Collegiate,14,Accepted,2022
+4176,DUT_China,Asia,China,,Collegiate,5,Accepted,2022
+4515,East_China,Asia,China,,Commercial,1,Accepted,2022
+4458,East_Coast_BioCrew,North America,United States,,Commercial,1,Accepted,2022
+4281,ECNUAS,Asia,China,,Commercial,1,Accepted,2022
+4390,Edinburgh-UHAS_Ghana,Africa,United Kingdom,,Collegiate,34,Accepted,2022
+4375,ELTE,Europe,Hungary,,Collegiate,10,Accepted,2022
+4439,EPFL,Europe,Switzerland,,Collegiate,15,Accepted,2022
+4440,Estonia_TUIT,Europe,Estonia,,Collegiate,9,Accepted,2022
+4432,Evry_Paris-Saclay,Europe,France,,Collegiate,17,Accepted,2022
+4108,Example,North America,United States,Environment(P),Collegiate,9,Accepted,2022
+4111,Example_CL,Latin America,Unspecified,,Community_lab,1,Accepted,2022
+4110,Example_CM,Europe,Unspecified,,Commercial,1,Accepted,2022
+4109,Example_HS,Africa,Unspecified,High School,High_school,1,Accepted,2022
+4339,Exeter,Europe,United Kingdom,,Collegiate,11,Accepted,2022
+4253,FAFU,Asia,China,,Collegiate,30,Accepted,2022
+4113,FAFU-China,Asia,China,,Collegiate,20,Accepted,2022
+4338,FDR-HB_Peru,Latin America,Peru,High School,High_school,5,Accepted,2022
+4229,Freiburg,Europe,Germany,,Collegiate,13,Accepted,2022
+4475,FSU,North America,United States,,Collegiate,15,Accepted,2022
+4162,Fudan,Asia,China,,Collegiate,17,Accepted,2022
+4288,Fujian_United,Asia,China,,Commercial,1,Accepted,2022
+4481,GastonDay-Shangde,North America,United States,,Collegiate,13,Accepted,2022
+4493,GA_State_SW_Jiaotong,North America,United States,,Collegiate,20,Accepted,2022
+4270,GDSYZX,Asia,China,High School,High_school,1,Pending,2022
+4168,GeffenLA,North America,United States,High School,High_school,1,Pending,2022
+4137,GEMS_Taiwan,Asia,Taiwan,,Commercial,2,Accepted,2022
+4285,Goethe_Frankfurt,Europe,Germany,,Collegiate,17,Accepted,2022
+4404,Goettingen,Europe,Germany,,Collegiate,9,Accepted,2022
+4370,GO_Paris-Saclay,Europe,France,,Collegiate,11,Accepted,2022
+4275,GreatBay_SCIE,Asia,China,,Commercial,1,Accepted,2022
+4233,Groningen,Europe,Netherlands,,Collegiate,11,Accepted,2022
+4157,Guangxi-U-China,Asia,China,,Collegiate,29,Accepted,2022
+4321,Guelph,North America,Canada,,Collegiate,6,Accepted,2022
+4354,GXU-China,Asia,China,,Collegiate,2,Accepted,2022
+4430,GYHS,Asia,China,,Commercial,1,Accepted,2022
+4489,HAGZGD-China,Asia,China,High School,High_school,1,Pending,2022
+4223,HainanU_China,Asia,China,,Collegiate,20,Accepted,2022
+4480,Harvard,North America,United States,,Collegiate,9,Accepted,2022
+4249,HBUT-China,Asia,China,,Collegiate,25,Accepted,2022
+4344,Heidelberg,Europe,Germany,,Collegiate,19,Accepted,2022
+4177,HiZJU-China,Asia,China,,Collegiate,10,Accepted,2022
+4225,HKUST,Asia,Hong Kong,,Collegiate,31,Accepted,2022
+4241,HKU_HongKong,Asia,Hong Kong,,Collegiate,27,Accepted,2022
+4126,HK_CPU-WYY,Asia,Hong Kong,High School,High_school,1,Pending,2022
+4384,HK_SSC,Asia,Hong Kong,High School,High_school,1,Pending,2022
+4252,HNU_China,Asia,China,,Collegiate,19,Accepted,2022
+4452,Hopkins,North America,United States,,Collegiate,16,Accepted,2022
+4183,HS_China,Asia,China,,Commercial,1,Accepted,2022
+4468,HUST-China,Asia,China,,Collegiate,1,Accepted,2022
+4511,HUS_United,North America,United States,High School,High_school,1,Pending,2022
+4169,HZAU-China,Asia,China,,Collegiate,4,Accepted,2022
+4236,iBowu-China,Asia,China,,Commercial,1,Accepted,2022
+4167,ICJFLS,Asia,China,High School,High_school,1,Pending,2022
+4303,ICT-Mumbai,Asia,India,,Collegiate,3,Accepted,2022
+4462,IISc-Bengaluru,Asia,India,,Collegiate,45,Accepted,2022
+4392,IISER-Pune-India,Asia,India,,Collegiate,18,Accepted,2022
+4429,IISER-Pune2_India,Asia,India,,Collegiate,19,Accepted,2022
+4438,IISER-Tirupati_India,Asia,India,,Collegiate,19,Accepted,2022
+4449,IISER_Berhampur,Asia,India,,Collegiate,16,Accepted,2022
+4382,IISER_Bhopal,Asia,India,,Collegiate,17,Accepted,2022
+4391,IISER_Mohali,Asia,India,,Collegiate,14,Accepted,2022
+4359,IISER_TVM,Asia,India,,Collegiate,22,Accepted,2022
+4428,IIT-Delhi,Asia,India,,Collegiate,19,Accepted,2022
+4434,IIT_Roorkee,Asia,India,,Collegiate,7,Accepted,2022
+4212,Imperial_College_London,Europe,United Kingdom,,Collegiate,13,Accepted,2022
+4239,INSA_Lyon1,Europe,France,,Collegiate,23,Accepted,2022
+4187,Ionis_Paris,Europe,France,,Collegiate,8,Accepted,2022
+4424,ITESO_Guadalajara,Latin America,Mexico,,Collegiate,16,Accepted,2022
+4122,IvyMaker-China,Asia,China,,Commercial,1,Accepted,2022
+4149,Jiangnan-China,Asia,China,,Collegiate,26,Accepted,2022
+4516,Jiangsu_United,Asia,China,,Commercial,1,Accepted,2022
+4385,Jilin_China,Asia,China,,Collegiate,9,Accepted,2022
+4427,JLU_China,Asia,China,,Collegiate,1,Pending,2022
+4487,KAIT_JAPAN,Asia,Japan,,Collegiate,14,Accepted,2022
+4180,KCIS_Xiugang_Taipei,Asia,Taiwan,High School,High_school,12,Accepted,2022
+4388,KCL_UK,Europe,United Kingdom,,Collegiate,19,Accepted,2022
+4274,KEYSTONE,Asia,China,,Commercial,1,Accepted,2022
+4305,Korea_HS,Asia,"Korea, Republic Of",,Commercial,1,Accepted,2022
+4371,KUAS_Korea,Asia,"Korea, Republic Of",,Collegiate,15,Accepted,2022
+4345,KU_Leuven,Europe,Belgium,,Collegiate,14,Accepted,2022
+4245,Lambert_GA,North America,United States,High School,High_school,21,Accepted,2022
+4398,Latvia-Riga,Europe,Latvia,,Collegiate,12,Accepted,2022
+4259,Leiden,Europe,Netherlands,,Collegiate,21,Accepted,2022
+4139,Lethbridge,North America,Canada,,Collegiate,8,Accepted,2022
+4351,Lethbridge_HS,North America,Canada,High School,High_school,1,Accepted,2022
+4433,Linkoping_Sweden,Europe,Sweden,,Collegiate,16,Accepted,2022
+4273,LINKS_China,Asia,China,,Commercial,1,Accepted,2022
+4373,Lund,Europe,Sweden,,Collegiate,13,Accepted,2022
+4156,LZU-CHINA,Asia,China,,Collegiate,32,Accepted,2022
+4330,LZU-HS-China-A,Asia,China,,Commercial,1,Pending,2022
+4331,LZU-HS-China-B,Asia,China,,Commercial,1,Pending,2022
+4332,LZU-HS-China-C,Asia,China,,Commercial,1,Pending,2022
+4512,LZU-HS-China-E,Asia,China,,Commercial,1,Pending,2022
+4300,LZU-HS-Pro-A,Asia,China,,Commercial,1,Accepted,2022
+4301,LZU-HS-Pro-B,Asia,China,,Commercial,1,Accepted,2022
+4517,Makerere_Uganda,Africa,Uganda,,Collegiate,18,Accepted,2022
+4123,Manchester,Europe,United Kingdom,,Collegiate,16,Accepted,2022
+4348,McGill,North America,Canada,,Collegiate,12,Accepted,2022
+4415,McMaster_A,North America,Canada,,Collegiate,3,Accepted,2022
+4442,McMaster_Canada,North America,Canada,,Collegiate,23,Accepted,2022
+4514,MiamiU,North America,United States,,Collegiate,12,Accepted,2022
+4143,Michigan,North America,United States,,Collegiate,25,Accepted,2022
+4135,MichiganState,North America,United States,,Collegiate,10,Accepted,2022
+4150,Mingdao,Asia,Taiwan,High School,High_school,1,Pending,2022
+4262,Missouri_Miners,North America,United States,,Collegiate,5,Accepted,2022
+4320,MIT,North America,United States,,Collegiate,14,Accepted,2022
+4200,MIT_MAHE,Asia,India,,Collegiate,21,Accepted,2022
+4473,Montpellier,Europe,France,,Collegiate,1,Pending,2022
+4185,MSP-Maastricht,Europe,Netherlands,,Collegiate,14,Accepted,2022
+4497,Munich,Europe,Germany,,Collegiate,13,Accepted,2022
+4134,Nanjing-China,Asia,China,,Collegiate,25,Accepted,2022
+4289,Nanjing_HS,Asia,China,,Commercial,1,Accepted,2022
+4125,Nanjing_NFLS,Asia,China,High School,High_school,1,Pending,2022
+4164,NAU-CHINA,Asia,China,,Collegiate,35,Accepted,2022
+4374,Navarra_BG,Europe,Spain,,Commercial,1,Accepted,2022
+4358,NCHU_Taichung,Asia,Taiwan,,Collegiate,15,Accepted,2022
+4171,NCKU_Tainan,Asia,Taiwan,,Collegiate,23,Accepted,2022
+4446,NCSU,North America,United States,,Collegiate,17,Accepted,2022
+4258,NDSU,North America,United States,,Collegiate,8,Accepted,2022
+4121,NEFU_China,Asia,China,,Collegiate,5,Accepted,2022
+4220,NEU_CHINA,Asia,China,,Collegiate,31,Accepted,2022
+4376,NFLS_Nanjing,Asia,China,High School,High_school,1,Pending,2022
+4205,NJMU-China,Asia,China,,Collegiate,39,Accepted,2022
+4119,NJTech_China,Asia,China,,Collegiate,35,Accepted,2022
+4173,NJU-China,Asia,China,,Collegiate,24,Accepted,2022
+4297,NJXDF-CHN,Asia,China,,Commercial,1,Accepted,2022
+4421,NMU_China,Asia,China,,Collegiate,14,Accepted,2022
+4343,NNU-China,Asia,China,,Collegiate,24,Accepted,2022
+4309,NPU-CHINA,Asia,China,,Collegiate,9,Accepted,2022
+4336,NTHU_Taiwan,Asia,Taiwan,,Collegiate,16,Accepted,2022
+4414,NUDT_CHINA,Asia,China,,Collegiate,1,Accepted,2022
+4389,NU_Kazakhstan,Asia,Kazakhstan,,Collegiate,24,Accepted,2022
+4199,NWU-CHINA-A,Asia,China,,Collegiate,21,Accepted,2022
+4461,NYCU-Taipei,Asia,Taiwan,,Collegiate,14,Accepted,2022
+4377,NYCU_Formosa,Asia,Taiwan,,Collegiate,25,Accepted,2022
+4482,NYC_Empire_State,North America,United States,High School,High_school,1,Pending,2022
+4397,NYU_Abu_Dhabi,Asia,United Arab Emirates,,Collegiate,15,Accepted,2022
+4478,NYU_New_York,North America,United States,,Collegiate,1,Accepted,2022
+4341,OhioState,North America,United States,,Collegiate,8,Accepted,2022
+4193,OUC-China,Asia,China,,Collegiate,14,Accepted,2022
+4216,Paris_Bettencourt,Europe,France,,Collegiate,8,Accepted,2022
+4287,Patras,Europe,Greece,,Collegiate,27,Accepted,2022
+4118,Patras_Medicine,Europe,Greece,,Collegiate,16,Accepted,2022
+4505,Patras_Uni_Hellas,Europe,Greece,,Collegiate,1,Pending,2022
+4298,Peking,Asia,China,,Collegiate,17,Accepted,2022
+4284,PINGHE,Asia,China,,Commercial,1,Accepted,2022
+4457,Portland,North America,United States,,Collegiate,7,Accepted,2022
+4340,PuiChing_Macau,Asia,Macao,High School,High_school,1,Accepted,2022
+4318,PUMC_CHINA,Asia,China,,Collegiate,3,Accepted,2022
+4206,Qdai,Asia,Japan,,Collegiate,14,Accepted,2022
+4347,Queens_Canada,North America,Canada,,Collegiate,21,Accepted,2022
+4513,RBHS_SanDiego_CA,North America,United States,High School,High_school,1,Pending,2022
+4405,RDFZ-CHINA,Asia,China,High School,High_school,1,Pending,2022
+4509,REC-CHENNAI,Asia,India,,Collegiate,22,Accepted,2022
+4130,Rochester,North America,United States,,Collegiate,17,Accepted,2022
+4401,RS_Joint_China,Asia,China,,Commercial,1,Accepted,2022
+4402,RS_United_China,Asia,China,,Commercial,1,Accepted,2022
+4293,RUBochum,Europe,Germany,,Collegiate,19,Accepted,2022
+4460,RUM-UPRM,Latin America,Puerto Rico,,Collegiate,1,Accepted,2022
+4383,SCU-China,Asia,China,,Collegiate,7,Accepted,2022
+4263,SCUT-China,Asia,China,,Collegiate,23,Accepted,2022
+4317,Seoul_Korea,Asia,"Korea, Republic Of",,Commercial,1,Accepted,2022
+4299,Sesame_Shenzhen,Asia,China,,Commercial,1,Accepted,2022
+4115,ShanghaiTech_China,Asia,China,,Collegiate,34,Accepted,2022
+4248,Shanghai_city,Asia,China,,Commercial,1,Accepted,2022
+4276,Shanghai_HS,Asia,China,,Commercial,1,Accepted,2022
+4278,Shanghai_Metropolis,Asia,China,,Commercial,1,Accepted,2022
+4277,Shanghai_United,Asia,China,,Commercial,1,Accepted,2022
+4411,SHBS-BANZ,Asia,China,,Commercial,1,Accepted,2022
+4451,Sheffield,Europe,United Kingdom,,Collegiate,15,Accepted,2022
+4255,SHSBNU_China,Asia,China,High School,High_school,1,Pending,2022
+4280,SHSID,Asia,China,,Commercial,1,Accepted,2022
+4181,SJTU-BioX-Shanghai,Asia,China,,Collegiate,16,Accepted,2022
+4328,SJTU-software,Asia,China,,Collegiate,1,Pending,2022
+4224,SMS_Shenzhen,Asia,China,High School,High_school,1,Pending,2022
+4267,Sogang_Korea,Asia,"Korea, Republic Of",,Collegiate,21,Accepted,2022
+4316,Sorbonne_U_Paris,Europe,France,,Collegiate,8,Accepted,2022
+4466,Stanford,North America,United States,,Collegiate,11,Accepted,2022
+4214,Stockholm,Europe,Sweden,,Collegiate,22,Accepted,2022
+4235,Stony_Brook,North America,United States,,Collegiate,15,Accepted,2022
+4279,SubCat_China,Asia,China,,Commercial,1,Accepted,2022
+4251,SubCat_Shanghai,Asia,China,,Commercial,1,Accepted,2022
+4268,SUNY_Oneonta,North America,United States,,Collegiate,11,Accepted,2022
+4266,SUSTech_EMB,Asia,China,,Collegiate,20,Accepted,2022
+4425,SUSTech_Shenzhen,Asia,China,,Collegiate,18,Accepted,2022
+4470,SUSTech_Shenzhen_HCL,Asia,China,,Collegiate,14,Accepted,2022
+4124,SuZhou_Union,Asia,China,,Collegiate,1,Accepted,2022
+4488,Sydney_Australia,Asia,Australia,,Collegiate,1,Accepted,2022
+4230,SYPHU-China,Asia,China,,Collegiate,19,Accepted,2022
+4395,SYSU-CHINA,Asia,China,,Collegiate,18,Accepted,2022
+4265,SYSU-Software,Asia,China,,Collegiate,19,Accepted,2022
+4283,SZ-SHD,Asia,China,,Commercial,1,Accepted,2022
+4325,SZPT-CHINA,Asia,China,,Collegiate,2,Accepted,2022
+4286,SZU-China,Asia,China,,Collegiate,11,Accepted,2022
+4484,TAMU,North America,United States,,Collegiate,10,Accepted,2022
+4219,TAU_Israel,Asia,Israel,,Collegiate,12,Accepted,2022
+4147,Tec-Chihuahua,Latin America,Mexico,,Collegiate,21,Accepted,2022
+4506,Tec-Monterrey,Latin America,Mexico,,Collegiate,20,Accepted,2022
+4464,TecCCM,Latin America,Mexico,,Collegiate,8,Accepted,2022
+4260,TecCEM,Latin America,Mexico,,Collegiate,37,Accepted,2022
+4179,Technion-Israel,Asia,Israel,,Collegiate,17,Accepted,2022
+4447,TecMonterrey_GDL,Latin America,Mexico,,Collegiate,23,Accepted,2022
+4471,TecnicoLisboa,Europe,Portugal,,Collegiate,1,Pending,2022
+4314,Thailand_RIS,Asia,Thailand,High School,High_school,1,Pending,2022
+4324,TheKingsSchool_AU_HS,Asia,Australia,High School,High_school,1,Accepted,2022
+4141,Thessaloniki,Europe,Greece,,Collegiate,11,Accepted,2022
+4170,Thessaloniki_Meta,Europe,Greece,,Collegiate,8,Accepted,2022
+4213,Thessaly,Europe,Greece,,Collegiate,18,Accepted,2022
+4502,Thinker-Shenzhen,Asia,China,,Commercial,1,Accepted,2022
+4153,THINKER_CHINA,Asia,China,,Commercial,1,Accepted,2022
+4362,Tianjin,Asia,China,,Collegiate,3,Accepted,2022
+4152,TJUSLS_China,Asia,China,,Collegiate,17,Accepted,2022
+4520,TKS_International,North America,Canada,,Commercial,1,Accepted,2022
+4419,TokyoTech,Asia,Japan,,Collegiate,36,Accepted,2022
+4228,Tongji_China,Asia,China,,Collegiate,13,Accepted,2022
+4272,Tongji_Software,Asia,China,,Collegiate,11,Accepted,2022
+4479,Toronto,North America,Canada,,Collegiate,22,Accepted,2022
+4197,Toulouse_INSA-UPS,Europe,France,,Collegiate,17,Accepted,2022
+4307,Tsinghua,Asia,China,,Collegiate,30,Accepted,2022
+4160,TU-Eindhoven,Europe,Netherlands,,Collegiate,19,Accepted,2022
+4361,TUDelft,Europe,Netherlands,,Collegiate,9,Accepted,2022
+4208,Tuebingen,Europe,Germany,,Collegiate,16,Accepted,2022
+4184,TU_Braunschweig,Europe,Germany,,Collegiate,11,Accepted,2022
+4365,TU_Dresden,Europe,Germany,,Collegiate,16,Accepted,2022
+4443,UAlberta-Canada,North America,Canada,,Collegiate,12,Accepted,2022
+4422,UAM,Latin America,Mexico,,Collegiate,28,Accepted,2022
+4350,UBC-Okanagan,North America,Canada,,Collegiate,14,Accepted,2022
+4296,UBC_Vancouver,North America,Canada,,Collegiate,6,Accepted,2022
+4256,UCAS-China,Asia,China,,Collegiate,35,Accepted,2022
+4394,UCBerkeley,North America,United States,,Collegiate,3,Accepted,2022
+4269,UChicago,North America,United States,,Collegiate,14,Accepted,2022
+4417,UCL,Europe,United Kingdom,,Collegiate,14,Accepted,2022
+4465,UConn,North America,United States,,Collegiate,1,Pending,2022
+4247,UCopenhagen,Europe,Denmark,,Collegiate,13,Accepted,2022
+4190,UCSC,North America,United States,,Collegiate,15,Accepted,2022
+4335,UESTC-BioTech,Asia,China,,Collegiate,21,Accepted,2022
+4412,UFlorida,North America,United States,,Collegiate,15,Accepted,2022
+4349,UFMG_UFV_Brazil,Latin America,Brazil,,Collegiate,24,Accepted,2022
+4337,UGA_Grenoble,Europe,France,,Collegiate,12,Accepted,2022
+4310,UIncheon,Asia,"Korea, Republic Of",,Collegiate,10,Accepted,2022
+4450,UiOslo_Norway,Europe,Norway,,Collegiate,11,Accepted,2022
+4436,UIUC_Illinois,North America,United States,,Collegiate,8,Accepted,2022
+4346,ULaval,North America,Canada,,Collegiate,15,Accepted,2022
+4323,UManitoba,North America,Canada,,Collegiate,16,Accepted,2022
+4483,UMaryland,North America,United States,,Collegiate,6,Accepted,2022
+4368,UMA_MALAGA,Europe,Spain,,Collegiate,25,Accepted,2022
+4357,UM_Macau,Asia,Macao,,Collegiate,21,Accepted,2022
+4472,Uni-Hamburg,Europe,Germany,,Collegiate,14,Accepted,2022
+4435,Unicamp_Brazil,Latin America,Brazil,,Collegiate,11,Accepted,2022
+4209,UNILausanne,Europe,Switzerland,,Collegiate,19,Accepted,2022
+4418,UniofBath,Europe,United Kingdom,,Collegiate,9,Accepted,2022
+4467,UNSW_Australia,Asia,Australia,,Collegiate,14,Accepted,2022
+4215,UOregon,North America,United States,,Collegiate,17,Accepted,2022
+4444,UPenn,North America,United States,,Collegiate,7,Accepted,2022
+4453,UPNAvarra_Spain,Europe,Spain,,Collegiate,20,Accepted,2022
+4378,Uppsala,Europe,Sweden,,Collegiate,16,Accepted,2022
+4132,USAFA,North America,United States,,Collegiate,21,Accepted,2022
+4381,USC_Dornsife,North America,United States,,Collegiate,27,Accepted,2022
+4496,USP-EEL-Brazil,Latin America,Brazil,,Collegiate,1,Pending,2022
+4231,USTC,Asia,China,,Collegiate,23,Accepted,2022
+4240,USTC-Software,Asia,China,,Collegiate,1,Accepted,2022
+4238,UTokyo,Asia,Japan,,Collegiate,21,Accepted,2022
+4387,UZurich,Europe,Switzerland,,Collegiate,16,Accepted,2022
+4380,Vilnius-Lithuania,Europe,Lithuania,,Collegiate,13,Accepted,2022
+4477,Virginia,North America,United States,,Collegiate,13,Accepted,2022
+4372,VIT_Vellore,Asia,India,,Collegiate,24,Accepted,2022
+4244,Wageningen_UR,Europe,Netherlands,,Collegiate,23,Accepted,2022
+4210,Warwick,Europe,United Kingdom,,Collegiate,15,Accepted,2022
+4158,Waseda_Tokyo,Asia,Japan,,Collegiate,21,Accepted,2022
+4441,Washington,North America,United States,,Collegiate,20,Accepted,2022
+4393,Waterloo,North America,Canada,,Collegiate,51,Accepted,2022
+4271,Wego_Taipei,Asia,Taiwan,High School,High_school,1,Pending,2022
+4144,WHU-China,Asia,China,,Collegiate,18,Accepted,2022
+4174,William_and_Mary,North America,United States,,Collegiate,13,Accepted,2022
+4366,WLC-Milwaukee,North America,United States,,Collegiate,13,Accepted,2022
+4409,Worldshaper-HZ,Asia,China,,Commercial,1,Accepted,2022
+4410,Worldshaper-HZBIOX,Asia,China,,Commercial,1,Accepted,2022
+4407,Worldshaper-Nanjing,Asia,China,,Commercial,1,Accepted,2022
+4408,Worldshaper-NJBIOX,Asia,China,,Commercial,1,Accepted,2022
+4399,Worldshaper-Shanghai,Asia,China,,Commercial,1,Accepted,2022
+4217,WrightState,North America,United States,,Collegiate,20,Accepted,2022
+4191,WVHS_SanDiego,North America,United States,High School,High_school,1,Pending,2022
+4188,WWU_Muenster,Europe,Germany,,Collegiate,30,Accepted,2022
+4172,XHD-Wuhan-China,Asia,China,,Commercial,1,Accepted,2022
+4155,XHD-Wuhan-Pro-China,Asia,China,,Commercial,1,Accepted,2022
+4463,XJTLU-CHINA,Asia,China,,Collegiate,13,Accepted,2022
+4182,XJTU-China,Asia,China,,Collegiate,2,Accepted,2022
+4195,XMU-China,Asia,China,,Collegiate,35,Accepted,2022
+4486,Yale,North America,United States,,Collegiate,1,Pending,2022
+4218,YiYe-China,Asia,China,,Commercial,1,Accepted,2022
+4304,YkPaO,Asia,China,,Commercial,1,Accepted,2022
+4292,Zhejiang_United,Asia,China,,Commercial,1,Accepted,2022
+4202,ZJU-China,Asia,China,,Collegiate,18,Accepted,2022
+4175,ZJUintl-China,Asia,China,,Collegiate,17,Accepted,2022
+4227,ZJUT-China,Asia,China,,Collegiate,27,Accepted,2022
